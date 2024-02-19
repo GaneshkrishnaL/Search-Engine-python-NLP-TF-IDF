@@ -1,9 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
+--------------------------
 
+#GANESH KRISHNA LAKSHMISETTY
 
+--------------------------
 #Importing Required libraries
 import os        
 import nltk
@@ -104,7 +104,7 @@ def query(querystr):
     else:
         return best_match 
     
-    
+  #GANESH KRISHNA LAKSHMISETTY  
 
 print("%.12f" % getidf('british'))
 print("%.12f" % getidf('union'))
@@ -124,7 +124,7 @@ print("(%s, %.12f)" % query("false public"))
 print("(%s, %.12f)" % query("people institutions"))
 print("(%s, %.12f)" % query("violated willingly"))
 
-
+#GANESH KRISHNA LAKSHMISETTY
 # In[ ]:
 
 
